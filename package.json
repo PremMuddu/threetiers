@@ -1,7 +1,7 @@
 {
-  "name": "littletiers",
+  "name": "threetiers",
   "version": "1.0.0",
-  "description": "little tiers",
+  "description": "three tiers",
   "main": "http_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/kogsio/threetiers.git"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
+    "url": "https://github.com/kogsio/threetiers/issues"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://github.com/kogsio/threetiers#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
